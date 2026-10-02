@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yCdP_nTeffW37eVTT6XC-17" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="yCdP_nTeffW37eVTT6XC-17" connectable="0" parent="1" style="group" value="SK HYNIX INC" vertex="1">
           <mxGeometry height="825" width="522.5" x="2480" y="41.5" as="geometry" />
         </mxCell>
         <mxCell id="yCdP_nTeffW37eVTT6XC-16" parent="yCdP_nTeffW37eVTT6XC-17" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -103,7 +103,7 @@
           <mxGeometry height="120" width="120" x="1850" y="580" as="geometry" />
         </mxCell>
         <mxCell id="yCdP_nTeffW37eVTT6XC-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Campus" vertex="1">
-          <mxGeometry height="40" width="87.5" x="1700" y="310" as="geometry" />
+          <mxGeometry height="40" width="87.5" x="1708.75" y="410" as="geometry" />
         </mxCell>
         <mxCell id="2TnMYp3EeOJLgc8uRvD0-20" edge="1" parent="1" source="yCdP_nTeffW37eVTT6XC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2TnMYp3EeOJLgc8uRvD0-17">
           <mxGeometry relative="1" as="geometry" />
